@@ -1,0 +1,18 @@
+[
+    {
+        "package": "bs4cards",
+        "url": "https://github.com/djnavarro/bs4cards"
+    },
+    {
+        "package": "flametree",
+        "url": "https://github.com/djnavarro/flametree"
+    },
+    {
+        "package": "lsr",
+        "url": "https://github.com/djnavarro/lsr"
+    },
+    {
+        "package": "jasmines",
+        "url": "https://github.com/djnavarro/jasmines"
+    }
+]
