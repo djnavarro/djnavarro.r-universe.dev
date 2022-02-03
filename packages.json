@@ -14,5 +14,29 @@
     {
         "package": "jasmines",
         "url": "https://github.com/djnavarro/jasmines"
-    }
+    },
+    {
+        "package": "hexify",
+        "url": "https://github.com/djnavarro/hexify"
+    },
+    {
+        "package": "asciify",
+        "url": "https://github.com/djnavarro/asciify"
+    },
+    {
+        "package": "jaysire",
+        "url": "https://github.com/djnavarro/jaysire"
+    },
+    {
+        "package": "rainbowr",
+        "url": "https://github.com/djnavarro/rainbowr"
+    },
+    {
+        "package": "scrawl",
+        "url": "https://github.com/djnavarro/scrawl"
+    },
+    {
+        "package": "turmite59",
+        "url": "https://github.com/djnavarro/turmite59"
+    }    
 ]
