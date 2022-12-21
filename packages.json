@@ -2,6 +2,10 @@
     {
         "package": "bs4cards",
         "url": "https://github.com/djnavarro/bs4cards"
+    },    
+    {
+        "package": "queue",
+        "url": "https://github.com/djnavarro/queue"
     },
     {
         "package": "flametree",
