@@ -38,13 +38,5 @@
     {
         "package": "rainbowr",
         "url": "https://github.com/djnavarro/rainbowr"
-    },
-    {
-        "package": "scrawl",
-        "url": "https://github.com/djnavarro/scrawl"
-    },
-    {
-        "package": "turmite59",
-        "url": "https://github.com/djnavarro/turmite59"
-    }    
+    }  
 ]
