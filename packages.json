@@ -1,5 +1,9 @@
 [
     {
+        "package": "arttools",
+        "url": "https://github.com/djnavarro/arttools"
+    },
+    {
         "package": "bs4cards",
         "url": "https://github.com/djnavarro/bs4cards"
     },    
