@@ -4,12 +4,16 @@
         "url": "https://github.com/djnavarro/arttools"
     },
     {
-        "package": "bs4cards",
-        "url": "https://github.com/djnavarro/bs4cards"
-    },    
+        "package": "emaxnls",
+        "url": "https://github.com/djnavarro/emaxnls"
+    },
     {
-        "package": "queue",
-        "url": "https://github.com/djnavarro/queue"
+        "package": "erglm",
+        "url": "https://github.com/djnavarro/erglm"
+    },
+    {
+        "package": "erplots",
+        "url": "https://github.com/djnavarro/erplots"
     },
     {
         "package": "flametree",
@@ -20,23 +24,19 @@
         "url": "https://github.com/djnavarro/lsr"
     },
     {
-        "package": "jasmines",
-        "url": "https://github.com/djnavarro/jasmines"
+        "package": "quartose",
+        "url": "https://github.com/djnavarro/quartose"
     },
     {
-        "package": "hexify",
-        "url": "https://github.com/djnavarro/hexify"
+        "package": "queue",
+        "url": "https://github.com/djnavarro/queue"
     },
     {
-        "package": "asciify",
-        "url": "https://github.com/djnavarro/asciify"
+        "package": "sessioncheck",
+        "url": "https://github.com/djnavarro/sessioncheck"
     },
     {
-        "package": "jaysire",
-        "url": "https://github.com/djnavarro/jaysire"
-    },
-    {
-        "package": "rainbowr",
-        "url": "https://github.com/djnavarro/rainbowr"
-    }  
+        "package": "waeponwifestre",
+        "url": "https://github.com/djnavarro/waeponwifestre"
+    }
 ]
