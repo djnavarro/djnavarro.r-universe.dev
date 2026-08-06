@@ -16,6 +16,10 @@
         "url": "https://github.com/djnavarro/erplots"
     },
     {
+        "package": "ertte",
+        "url": "https://github.com/djnavarro/ertte"
+    },
+    {
         "package": "flametree",
         "url": "https://github.com/djnavarro/flametree"
     },
