@@ -4,6 +4,10 @@
         "url": "https://github.com/djnavarro/arttools"
     },
     {
+        "package": "cranlint",
+        "url": "https://github.com/djnavarro/cranlint"
+    },
+    {
         "package": "emaxnls",
         "url": "https://github.com/djnavarro/emaxnls"
     },
@@ -38,6 +42,10 @@
     {
         "package": "sessioncheck",
         "url": "https://github.com/djnavarro/sessioncheck"
+    },
+    {
+        "package": "sketchpad",
+        "url": "https://github.com/djnavarro/sketchpad"
     },
     {
         "package": "waeponwifestre",
